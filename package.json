@@ -6,5 +6,9 @@
   "repository": "git@github.com:stripethree/hello-world-action-js.git",
   "author": "Jeff Israel <jeff.israel@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0"
+  }
 }
